@@ -2,8 +2,12 @@
 content_type: resource
 description: Press Statement Of Commisioner Michael Powell on the Approval of Aol-Time
   Warner Merger
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-649-the-law-of-mergers-and-acquisitions-spring-2003/375a7abdaec52d79b370866a4f979f11_class9aoltmewarner.pdf
+file: /media/courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/375a7abdaec52d79b370866a4f979f11_class9aoltmewarner.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Study Materials
+parent_type: CourseSection
 resourcetype: Document
 title: class9aoltmewarner.pdf
 uid: 375a7abd-aec5-2d79-b370-866a4f979f11
