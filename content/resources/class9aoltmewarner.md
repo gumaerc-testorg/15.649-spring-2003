@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 849f6b07-bbc9-999a-1d86-09e98b748fcd
 resourcetype: Document
 title: class9aoltmewarner.pdf
 uid: 375a7abd-aec5-2d79-b370-866a4f979f11

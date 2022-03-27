@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 849f6b07-bbc9-999a-1d86-09e98b748fcd
 resourcetype: Document
 title: class6leclaireslides.pdf
 uid: 0ce2b16c-37d0-a480-c1a2-6efa1f4ee327

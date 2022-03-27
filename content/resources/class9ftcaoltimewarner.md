@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 849f6b07-bbc9-999a-1d86-09e98b748fcd
 resourcetype: Document
 title: class9ftcaoltimewarner.pdf
 uid: 3d579bcd-504a-1ee8-3e23-260a38376431

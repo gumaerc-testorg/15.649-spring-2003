@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 849f6b07-bbc9-999a-1d86-09e98b748fcd
 resourcetype: Document
 title: class9doj.pdf
 uid: 98629fcd-7a54-2a9e-bdef-df9629145dc5

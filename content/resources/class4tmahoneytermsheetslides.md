@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 849f6b07-bbc9-999a-1d86-09e98b748fcd
 resourcetype: Document
 title: class4tmahoneytermsheetslides.pdf
 uid: a3f34f7a-86ef-1941-d959-0c15276d6623
