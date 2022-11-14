@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -20,7 +21,7 @@ In Module II, we look at a variety of complications, including those that arise 
 
 For each class, we will have one or more guest commentators who will play a major role. The guest commentators are all practicing lawyers with solid expertise on their topics.
 
-A [class-by-class outline]({{< baseurl >}}/pages/calendar), with a tentative list of guest commentators, is attached.
+A {{% resource_link 7c9842cd-f32b-4bdf-636f-b5dac6eda8ef "class-by-class outline" %}}, with a tentative list of guest commentators, is attached.
 
 The course is not designed to make managers into amateur lawyers. Nor is it a course in legal first aid. M&A raises many legal issues that affect strategy, deal structure, responsibility and liability. The best senior managers possess a sensitivity about these issues that enhances their general effectiveness as leaders and planners and enables them to avoid problems and use legal support wisely. The purpose of this course is to give students a strong boost towards that sensitivity. Also, since this is the only law course most of the students in the class will take, we will spend some time on legal fundamentals when such a foundation is needed.
 
