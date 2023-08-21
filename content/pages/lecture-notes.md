@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -40,7 +41,7 @@ An Overview of Key Players, Their Legal Responsibilities and Early Roles
 2 and 3
 {{< tdclose >}}
 {{< tdopen >}}
-Tax Considerations in Deal Structures ([PDF]({{< baseurl >}}/resources/lec2and3))
+Tax Considerations in Deal Structures ({{% resource_link 86f7d2b3-f117-f951-dece-2a9973e6379a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +50,7 @@ Tax Considerations in Deal Structures ([PDF]({{< baseurl >}}/resources/lec2and3)
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Putting the Deal Together ([PDF]({{< baseurl >}}/resources/lec4))
+Putting the Deal Together ({{% resource_link f1b93373-1f19-71d5-0ab5-9a5294b8f7d4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +59,7 @@ Putting the Deal Together ([PDF]({{< baseurl >}}/resources/lec4))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Employment Law: The Perspectives of Key Employees and of the Corporation as an Employer ([PDF]({{< baseurl >}}/resources/lec5))
+Employment Law: The Perspectives of Key Employees and of the Corporation as an Employer ({{% resource_link ddb0bdd8-99ac-3622-c49c-448b6e6a8bda "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -82,7 +83,7 @@ LBOs and the Perspective of Financial Sponsors
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Intellectual Property as an Asset; Selling and Buying the Hi-tech Start-up ([PDF]({{< baseurl >}}/resources/lec7))
+Intellectual Property as an Asset; Selling and Buying the Hi-tech Start-up ({{% resource_link 03012206-39cd-1054-2728-7dca49dfb183 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +92,7 @@ Intellectual Property as an Asset; Selling and Buying the Hi-tech Start-up ([PDF
 8
 {{< tdclose >}}
 {{< tdopen >}}
-The Legal Liability of Managers and Board Members ([PDF]({{< baseurl >}}/resources/lec8))
+The Legal Liability of Managers and Board Members ({{% resource_link dc3113b6-ba80-8912-355f-0808792e0bf8 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -100,7 +101,7 @@ The Legal Liability of Managers and Board Members ([PDF]({{< baseurl >}}/resourc
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Antitrust Concerns and Regulatory Clearance ([PDF]({{< baseurl >}}/resources/lec9))
+Antitrust Concerns and Regulatory Clearance ({{% resource_link 09204fbe-c184-834f-b1af-d7d609151dc6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -109,7 +110,7 @@ Antitrust Concerns and Regulatory Clearance ([PDF]({{< baseurl >}}/resources/lec
 10
 {{< tdclose >}}
 {{< tdopen >}}
-The Distressed Company ([PDF]({{< baseurl >}}/resources/lec10))
+The Distressed Company ({{% resource_link 1c147b44-20a4-0448-0853-0580260f98ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
