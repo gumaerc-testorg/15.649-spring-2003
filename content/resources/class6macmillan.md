@@ -2,6 +2,7 @@
 content_type: resource
 description: MacMillan
 file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/d00481b60bf8d2fcf1ff154007623fd4_class6macmillan.pdf
+file_size: 514381
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
