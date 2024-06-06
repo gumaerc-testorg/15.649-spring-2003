@@ -2,6 +2,7 @@
 content_type: resource
 description: Antitrust concerns and regulatory clearance
 file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/09204fbec184834fb1afd7d609151dc6_lec9.pdf
+file_size: 39211
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

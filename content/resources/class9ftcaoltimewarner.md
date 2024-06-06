@@ -2,6 +2,7 @@
 content_type: resource
 description: FTC Approves AOL/Time Warner Merger with Conditions
 file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/3d579bcd504a1ee83e23260a38376431_class9ftcaoltimewarner.pdf
+file_size: 222199
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
