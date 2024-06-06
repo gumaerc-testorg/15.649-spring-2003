@@ -3,6 +3,7 @@ content_type: resource
 description: Justice Department Reaches Settlement With Gemstar-TV Guide For Illegal
   Pre-Merger Coordination
 file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/98629fcd7a542a9ebdefdf9629145dc5_class9doj.pdf
+file_size: 101008
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
