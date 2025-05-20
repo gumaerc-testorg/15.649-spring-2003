@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The distressed company
-file: /ol-ocw-studio-app/courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/1c147b4420a4044808530580260f98ca_lec10.pdf
+file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/1c147b4420a4044808530580260f98ca_lec10.pdf
 file_size: 36354
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Intellectual property as an asset; Selling and buying the hi-tech start-up
-file: /ol-ocw-studio-app/courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/0301220639cd105427287dca49dfb183_lec7.pdf
+file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/0301220639cd105427287dca49dfb183_lec7.pdf
 file_size: 415021
 file_type: application/pdf
 learning_resource_types:
