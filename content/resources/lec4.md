@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Putting the deal together
-file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/f1b933731f1971d50ab59a5294b8f7d4_lec4.pdf
+file: /ol-ocw-studio-app/courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/f1b933731f1971d50ab59a5294b8f7d4_lec4.pdf
 file_size: 53750
 file_type: application/pdf
 learning_resource_types:
