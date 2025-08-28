@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Agreement Structure
-file: /courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/a3f34f7a86ef1941d9590c15276d6623_class4tmahoneytermsheetslides.pdf
+file: /ol-ocw-studio-app/courses/15-649-the-law-of-mergers-and-acquisitions-spring-2003/a3f34f7a86ef1941d9590c15276d6623_class4tmahoneytermsheetslides.pdf
 file_size: 139730
 file_type: application/pdf
 learning_resource_types: []
